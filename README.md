@@ -19,4 +19,4 @@ The project at Toshiba focuses on developing a **coverage digital twin** to pred
   - Designing a neural network to predict signal strength by training on unified data, which includes material properties and simulated measurements.
   - Validating the trained model’s accuracy for a multi-floor environment by assessing key performance indicators (KPIs) such as absolute error, mean squared error, and comparing actual versus predicted path loss. Visualization tools are used to ensure the effective integration of real and synthetic data within the Digital Twin framework.
 
-![Alt text](Poster - Digital Twin.jpg)
+
