@@ -5,6 +5,33 @@
 ## Project Overview
 The project at Toshiba focuses on developing a **coverage digital twin** to predict the **path loss** and **received signal strength** in a multi-floor indoor environment using a fully connected deep learning neural network. The model integrates real-time measured data with data simulated using ray-tracing techniques and empirical models.
 
+## Tools and Technologies covered:
+
+**Programming & Scripting Languages:**
+
+- Python (for data processing, neural network training)
+- MATLAB (for signal processing, ray-tracing simulations)
+
+**Machine Learning & AI:**
+
+- TensorFlow/Keras (for deep learning model development)
+- Scikit-Learn (for data analysis and validation metrics)
+
+**Simulation & Modeling:**
+
+- Ray-Tracing Methods (for synthetic data generation)
+- Empirical Models (for path loss estimation and signal strength analysis)
+
+**Wireless Communication & Signal Processing:**
+
+- 5G/6G Network Models
+- Propagation & Coverage Mapping (for optimizing transmitter placement)
+
+**Data Handling & Visualization:**
+
+- Pandas & NumPy (for data manipulation)
+- Matplotlib & Seaborn (for visualization of signal strength and model performance)
+
 ## Project Objectives
 
 - **Data Collection and Integration:**
