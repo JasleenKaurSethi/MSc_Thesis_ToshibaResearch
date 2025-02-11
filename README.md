@@ -1,6 +1,6 @@
 # MSc Major Project: Coverage Digital Twin for Multi-Floor Indoor Environments (In collaboration with Toshiba Europe Ltd.)
 
-**_Please note: The code for this project cannot be shared due to confidentiality agreements. Refer to the poster for a brief on the project._**
+**_Please note: The code for this project cannot be shared due to confidentiality agreements. Please refer to the poster for a brief on the project._**
 
 ## Project Overview
 The project at Toshiba focuses on developing a **coverage digital twin** to predict the **path loss** and **received signal strength** in a multi-floor indoor environment using a fully connected deep learning neural network. The model integrates real-time measured data with data simulated using ray-tracing techniques and empirical models.
